@@ -1,0 +1,14 @@
+Ity projet iray ity dia famoronana application zeb anankiray fivarotana film toy ny netflix 
+ka amin'izany dia ireto avy ny tachwe tsy maintsy atao individuellement:
+   - Ny specification an'ny API ho ilaina ao anatin'io apllication io a travers swagger
+   - Mijery hoe ahoana ny design tokony hitondrana an'ity application ity. Maka tahaka ny design hafan'ny olona izay efa vita tany anloha 
+   toy ny netflix
+   - Misafidy hoe ho entina amin'ny JSX sa TSX ny front-endn'ilay application\
+   - Mila mifehy tsara ny basem'ny Java spring boot sy ny spring security (controller,service,repository,JPA)
+   - Mianatra tsara ny operation CRUD mba ahafahana mahazo antoka ny fahazoana moyenne amin'io projet io
+ 
+ Liste des tables a utuliser dans la base de donnees:
+   - film
+   - commentaire
+   - client
+   - abonnement (premium,vip,)
